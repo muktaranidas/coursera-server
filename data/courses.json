@@ -1,0 +1,86 @@
+[
+  {
+    "_id": "100",
+    "category_id": "01",
+    "header": "HTML",
+    "price": "$9595959",
+    "course_body": "Hypertext Markup Language, a standardized system for tagging text files to achieve font, colour, graphic, and hyperlink effects on World Wide Web pages.",
+    "image_url": "https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw",
+    "details": "HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes"
+  },
+
+  {
+    "_id": "10000",
+    "price": "$20200",
+    "category_id": "01",
+    "header": "HTML5",
+    "course_body": "Hypertext Markup Language, a standardized system for tagging text files to achieve font, colour, graphic, and hyperlink effects on World Wide Web pages.",
+    "image_url": "https://www.freecodecamp.org/news/content/images/2021/08/html.png",
+    "details": "HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes"
+  },
+  {
+    "_id": "200",
+    "price": "$22020030",
+    "category_id": "02",
+    "header": "CSS",
+    "course_body": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media..",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8-320-80.jpg",
+    "details": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media."
+  },
+  {
+    "_id": "2000",
+    "category_id": "02",
+    "price": "$574646",
+    "header": "CSS7",
+    "course_body": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media",
+    "image_url": "https://www.w3docs.com/uploads/media/default/0001/05/6d07a36ebe6d55273b39440f2391f1d7e6d4092a.png",
+    "details": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media"
+  },
+  {
+    "_id": "300",
+    "price": "$857575",
+    "category_id": "03",
+    "header": "Bootstrap 5",
+    "course_body": "Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs.",
+    "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210322182259/BootstrapTutorial.png",
+    "details": "Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs."
+  },
+  {
+    "_id": "400",
+    "category_id": "04",
+    "price": "$57576464",
+    "header": "JS 6",
+    "course_body": "Hypertext Markup Language, a standardized system for tagging text files to achieve font, colour, graphic, and hyperlink effects on World Wide Web pages.",
+    "image_url": "https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png",
+    "details": "JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.) such as tags and attributes"
+  },
+  {
+    "_id": "4000",
+    "category_id": "04",
+    "price": "$4847474",
+    "header": "JS 65",
+    "course_body": "Javascript (JS) is a scripting languages, primarily used on the Web. It is used to enhance HTML pages and is commonly found embedded in HTML code. JavaScript is an interpreted language. Thus, it doesn't need to be compiled. JavaScript renders web pages in an interactive and dynamic fashion. This allowing the pages to react to events, exhibit special effects, accept variable text, validate data, create cookies, detect a user’s browser, etc.",
+    "image_url": "https://t4.ftcdn.net/jpg/02/66/76/83/360_F_266768305_jxxjP3ivAYLHxbOejYQ4095SvaGfTjc3.jpg",
+    "details": "Javascript (JS) is a scripting languages, primarily used on the Web. It is used to enhance HTML pages and is commonly found embedded in HTML code. JavaScript is an interpreted language. Thus, it doesn't need to be compiled. JavaScript renders web pages in an interactive and dynamic fashion. This allowing the pages to react to events, exhibit special effects, accept variable text, validate data, create cookies, detect a user’s browser, etc."
+  },
+
+  {
+    "_id": "500",
+    "price": "$6342232",
+    "category_id": "05",
+    "header": "React 6",
+    "course_body": "Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.",
+    "image_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/777655/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png",
+    "details": "It is a used as backend service where javascript works on the server-side of the application. This way javascript is used on both frontend and backend. Node. js runs on chrome v8 engine which converts javascript code into machine code, it is highly scalable, lightweight, fast, and data-intensive. Working of Node."
+  },
+
+  {
+    "_id": "600",
+    "category_id": "06",
+    "price": "$1342232",
+    "header": "Node",
+    "course_body": "Hypertext Markup Language, a standardized system for tagging text files to achieve font, colour, graphic, and hyperlink effects on World Wide Web pages.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyNXrDwkDjFoUi4GM3y0cW3zmACQ6doZwa1g&usqp=CAU",
+    "details": "Node allows developers to write JavaScript code that runs directly in a computer process itself instead of in a browser. Node can, therefore, be used to write server-side applications with access to the operating system, file system, and everything else required to build fully-functional applications."
+  }
+]
